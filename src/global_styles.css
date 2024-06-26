@@ -1,0 +1,20 @@
+/* Add application styles & imports to this file! */
+body {
+  margin: 10px
+}
+input {
+  padding: 8px;
+  margin: 4px;
+}
+
+button {
+  padding: 4px;
+  margin: 4px;
+  background-color:none;
+}
+
+
+a:hover {
+  cursor: pointer;
+  font-weight: 800;
+}
